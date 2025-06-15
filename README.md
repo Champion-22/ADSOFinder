@@ -114,3 +114,18 @@ A handy utility for any day:
 *   **Start with a higher minimum altitude.** Objects near the horizon are often difficult to see. A value of 25-30° is a good starting point.
 *   **Use the moon filter.** When the moon is bright (above 50%), faint nebulae and galaxies are nearly impossible to see. On such nights, focus on bright star clusters or planetary nebulae.
 *   **Experiment!** Every night is different. Play with the filters and discover what the night sky has to offer.
+
+---
+
+### 🐞 Found a Bug or Have an Idea?
+
+Feedback is always welcome! If you find a bug or have an idea for a new feature, the best way to share it is by creating an "Issue" on GitHub.
+
+*   **[Click here to report a bug or suggest a feature](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)**
+
+Please describe the problem in as much detail as possible:
+*   What did you do?
+*   What did you expect to happen?
+*   What happened instead? (including screenshots, if helpful)
+
+This is a huge help in continuously improving the application.
