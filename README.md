@@ -2,8 +2,6 @@
 
 Willkommen beim Advanced DSO Finder! Dieses Handbuch erklärt alle Funktionen und hilft Ihnen, das Beste aus Ihren astronomischen Beobachtungsnächten herauszuholen.
 
-![Advanced DSO Finder Screenshot]([Link zu einem Screenshot Ihrer App])
-
 ---
 
 ### Inhaltsverzeichnis
