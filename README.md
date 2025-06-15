@@ -121,7 +121,7 @@ A handy utility for any day:
 
 Feedback is always welcome! If you find a bug or have an idea for a new feature, the best way to share it is by creating an "Issue" on GitHub.
 
-*   **[Click here to report a bug or suggest a feature](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)**
+*   **[Click here to report a bug or suggest a feature]([https://github.com/YOUR_USERNAME/YOUR_REPO/issues](https://github.com/Champion-22/ADSOFinder/issues)**
 
 Please describe the problem in as much detail as possible:
 *   What did you do?
