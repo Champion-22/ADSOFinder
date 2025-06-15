@@ -1,116 +1,116 @@
-# Advanced DSO Finder: Benutzerhandbuch
+# Advanced DSO Finder: User Guide
 
-Willkommen beim Advanced DSO Finder! Dieses Handbuch erklärt alle Funktionen und hilft Ihnen, das Beste aus Ihren astronomischen Beobachtungsnächten herauszuholen.
-
----
-
-### Inhaltsverzeichnis
-
-1.  [**Kernfunktionen im Überblick**](#-kernfunktionen-im-überblick)
-2.  [**Die Benutzeroberfläche erklärt**](#-die-benutzeroberfläche-erklärt)
-    *   [Seitenleiste: Ihre Steuerzentrale](#seitenleiste-ihre-steuerzentrale)
-    *   [Hauptbereich: Ergebnisse und Werkzeuge](#hauptbereich-ergebnisse-und-werkzeuge)
-3.  [**Schritt-für-Schritt: Eine Beobachtungsnacht planen**](#-schritt-für-schritt-eine-beobachtungsnacht-planen)
-4.  [**Die Werkzeuge im Detail**](#-die-werkzeuge-im-detail)
-    *   [Manuelle Zieleingabe & Plotting](#manuelle-zieleingabe--plotting)
-    *   [Rotverschiebungsrechner](#rotverschiebungsrechner)
-    *   [Sonnenzeiten-Rechner](#sonnenzeiten-rechner)
-5.  [**Tipps für die besten Ergebnisse**](#-tipps-für-die-besten-ergebnisse)
+Welcome to the Advanced DSO Finder! This guide explains all features and helps you get the most out of your astronomical observation nights.
 
 ---
 
-### 🌟 Kernfunktionen im Überblick
+### Table of Contents
 
-*   **Intelligente Objektsuche:** Findet die besten Galaxien, Nebel und Sternhaufen für Ihren spezifischen Standort und Zeitpunkt.
-*   **Präzise Filter:** Schränken Sie die Suche nach Himmelqualität (Bortle), Objekthöhe, Größe und Mondhelligkeit ein, um nur relevante Ziele zu sehen.
-*   **Standort-Automatik:** Findet Ihren Standort automatisch oder lässt Sie manuell nach Orten suchen.
-*   **Interaktive Ergebnis-Karten:** Jedes gefundene Objekt wird mit allen wichtigen Daten wie Helligkeit, Größe, Kulminationszeit und Sternbild dargestellt.
-*   **Visuelle Hilfen:** Eine grafische Darstellung der Mondphase und des Beleuchtungsgrads hilft bei der Planung.
-*   **Integrierte Astro-Werkzeuge:** Rechner für Sonnenzeiten, Rotverschiebung und manuelle Zielanalyse direkt in der App.
-*   **Daten-Export:** Speichern Sie Ihre Ergebnisliste als CSV-Datei für die Verwendung mit anderer Software.
-
----
-
-### 🖥️ Die Benutzeroberfläche erklärt
-
-#### Seitenleiste: Ihre Steuerzentrale
-
-In der linken Seitenleiste stellen Sie alle Parameter für Ihre Suche ein.
-
-1.  **Standort:**
-    *   **Breitengrad/Längengrad/Höhe:** Geben Sie Ihre genauen Koordinaten ein.
-    *   **Stadt-/Ortsname:** Tippen Sie einen Namen ein und klicken Sie auf "Suchen", um die Koordinaten automatisch auszufüllen.
-    *   **Auto-Ermittlung:** Lässt die App versuchen, Ihren aktuellen Standort zu finden.
-
-2.  **Zeiteinstellungen:**
-    *   **Jetzt (heute Nacht):** Berechnet die Sichtbarkeit für die kommende Nacht (von der astronomischen Abend- bis zur Morgendämmerung).
-    *   **Spezifische Nacht:** Wählen Sie über den Kalender ein beliebiges Datum in der Zukunft oder Vergangenheit.
-
-3.  **Filter:**
-    *   **Bortle-Skala:** Gibt die Dunkelheit Ihres Himmels an (1 = exzellent, 9 = Stadtzentrum). Dies beeinflusst, wie lichtschwache Objekte gefunden werden.
-    *   **Min./Max. Höhe:** Legt fest, in welchem Höhenbereich über dem Horizont Objekte angezeigt werden sollen. (Tipp: Ein Minimum von 30° reduziert den Einfluss von Horizontdunst).
-    *   **Max. Mondhelligkeit:** Schließt Nächte aus, in denen der Mond heller als der eingestellte Prozentwert ist.
-    *   **Min./Max. Größe:** Filtert Objekte nach ihrer scheinbaren Größe am Himmel (in Bogenminuten).
-    *   **Himmelsrichtung:** Zeigt nur Objekte an, die ihren höchsten Punkt in der gewählten Himmelsrichtung erreichen.
-
-4.  **Objekttypen:**
-    *   Wählen Sie über die aufklappbaren Menüs genau aus, welche Art von Objekten Sie suchen (z.B. nur Galaxien und planetarische Nebel).
-
-5.  **Suche starten:**
-    *   Der große "Suchen"-Button am Ende der Seitenleiste startet die Berechnung mit Ihren Einstellungen.
-
-#### Hauptbereich: Ergebnisse und Werkzeuge
-
-Der rechte, große Bereich ist in Tabs unterteilt.
-
-*   **Tab "Ergebnisse":** Hier erscheinen die gefundenen Objekte nach einer erfolgreichen Suche.
-    *   Jedes Objekt ist eine **aufklappbare Karte**. Klicken Sie darauf, um alle Details wie Konstellation, Größe und die beste Beobachtungszeit zu sehen.
-    *   Über der Liste können Sie die **Sortierung** ändern (nach Helligkeit oder optimaler Sichtbarkeit).
-    *   Der **"Export"-Button** speichert die aktuelle Liste als CSV-Datei.
-    *   Die **Mondgrafik** zeigt Ihnen die aktuelle Phase für die gewählte Nacht an.
-
-*   **Tab "Werkzeuge":** Hier finden Sie zusätzliche nützliche Rechner.
+1.  [**Core Features at a Glance**](#-core-features-at-a-glance)
+2.  [**Understanding the User Interface**](#-understanding-the-user-interface)
+    *   [The Sidebar: Your Control Center](#the-sidebar-your-control-center)
+    *   [The Main Area: Results and Tools](#the-main-area-results-and-tools)
+3.  [**Step-by-Step: Planning an Observation Night**](#-step-by-step-planning-an-observation-night)
+4.  [**The Tools in Detail**](#-the-tools-in-detail)
+    *   [Manual Target Entry & Plotting](#manual-target-entry--plotting)
+    *   [Redshift Calculator](#redshift-calculator)
+    *   [Sun Times Calculator](#sun-times-calculator)
+5.  [**Tips for the Best Results**](#-tips-for-the-best-results)
 
 ---
 
-### 🚀 Schritt-für-Schritt: Eine Beobachtungsnacht planen
+### 🌟 Core Features at a Glance
 
-1.  **Standort festlegen:** Geben Sie Ihre Koordinaten ein oder nutzen Sie die Standortsuche.
-2.  **Datum wählen:** Belassen Sie es bei "Jetzt (heute Nacht)" oder wählen Sie ein Datum im Kalender.
-3.  **Filter anpassen:** Stellen Sie die Bortle-Skala für Ihren Standort ein und passen Sie die anderen Filter nach Ihren Wünschen an.
-4.  **Objekttypen wählen:** Entscheiden Sie, was Sie sehen möchten. Für den Anfang sind Sternhaufen (offene und kugelförmige) oft am einfachsten zu finden.
-5.  **Suche starten:** Klicken Sie auf den großen Button am Ende der Seitenleiste.
-6.  **Ergebnisse analysieren:** Durchsuchen Sie die Ergebnisliste. Klicken Sie auf interessante Objekte, um mehr Details zu erfahren.
-7.  **(Optional) Plots ansehen:** Klicken Sie in einer Ergebnis-Karte auf "Höhenverlauf" oder "Himmelsbahn", um eine grafische Darstellung für das Objekt zu erhalten.
-8.  **(Optional) Exportieren:** Speichern Sie Ihre Liste für die Mitnahme nach draußen.
-
----
-
-### 🛠️ Die Werkzeuge im Detail
-
-#### Manuelle Zieleingabe & Plotting
-Haben Sie ein bestimmtes Objekt im Sinn, das nicht in der Suche auftaucht?
-
-1.  Wechseln Sie zum Tab **Werkzeuge -> Manuelle Zieleingabe**.
-2.  Geben Sie den Namen und/oder die RA/Dek-Koordinaten des Objekts ein.
-3.  Klicken Sie auf **"Berechnen"**. Die App berechnet die Sichtbarkeit für dieses spezifische Ziel und zeigt Ihnen eine Ergebnis-Karte an.
-4.  Von hier aus können Sie ebenfalls die **Plot-Funktionen** nutzen.
-
-#### Rotverschiebungsrechner
-Ein wissenschaftliches Werkzeug für Fortgeschrittene. Geben Sie eine Rotverschiebung (z) und kosmologische Parameter ein, um Werte wie Rückblickzeit und Entfernungen im Universum zu berechnen.
-
-#### Sonnenzeiten-Rechner
-Ein praktischer Helfer für jeden Tag:
-1.  Stellen Sie sicher, dass Ihr Standort in der Seitenleiste korrekt ist.
-2.  Wechseln Sie zum Tab **Werkzeuge -> Sonnenzeiten-Rechner**.
-3.  Klicken Sie auf **"Sonnenzeiten berechnen"**.
-4.  Die App zeigt Ihnen Sonnenauf- und -untergang, Tageslänge, Sonnenmittag, die aktuelle lokale Zeit (als Live-Uhr) und die Jahreszeit für Ihren Standort an.
+*   **Intelligent Object Search:** Finds the best galaxies, nebulae, and star clusters for your specific location and time.
+*   **Precision Filters:** Narrow down your search by sky quality (Bortle), object altitude, size, and moon brightness to see only relevant targets.
+*   **Automatic Location:** Finds your location automatically or lets you search for places manually.
+*   **Interactive Result Cards:** Each found object is presented with all essential data, including magnitude, size, culmination time, and constellation.
+*   **Visual Aids:** A graphical representation of the moon phase and illumination percentage helps with planning.
+*   **Integrated Astro Tools:** Calculators for sun times, redshift, and manual target analysis are built right into the app.
+*   **Data Export:** Save your result list as a CSV file for use with other software.
 
 ---
 
-### ✅ Tipps für die besten Ergebnisse
+### 🖥️ Understanding the User Interface
 
-*   **Seien Sie realistisch mit der Bortle-Skala.** Eine ehrliche Einschätzung Ihrer Himmelsqualität führt zu den besten und sichtbarsten Zielen.
-*   **Beginnen Sie mit einer höheren Minimal-Höhe.** Objekte nahe am Horizont sind oft schwer zu sehen. Ein Wert von 25-30° ist ein guter Startpunkt.
-*   **Nutzen Sie die Mondfilter.** Bei hellem Mond (über 50 %) sind lichtschwache Nebel und Galaxien kaum sichtbar. Konzentrieren Sie sich in solchen Nächten auf helle Sternhaufen oder planetarische Nebel.
-*   **Experimentieren Sie!** Jede Nacht ist anders. Spielen Sie mit den Filtern und entdecken Sie, was der Nachthimmel zu bieten hat.
+#### The Sidebar: Your Control Center
+
+The left-hand sidebar is where you configure all the parameters for your search.
+
+1.  **Location:**
+    *   **Latitude/Longitude/Elevation:** Enter your precise coordinates.
+    *   **City/Place Name:** Type a name and click "Search" to automatically fill in the coordinates.
+    *   **Auto-detect:** Lets the app attempt to find your current location.
+
+2.  **Time Settings:**
+    *   **Now (Tonight):** Calculates visibility for the upcoming night (from astronomical dusk to dawn).
+    *   **Specific Night:** Use the calendar to select any date in the future or past.
+
+3.  **Filters:**
+    *   **Bortle Scale:** Specifies the darkness of your sky (1 = excellent, 9 = city center). This affects how faint of an object can be found.
+    *   **Min/Max Altitude:** Sets the range of altitude above the horizon where objects should be displayed. (Tip: A minimum of 30° reduces the impact of horizon haze).
+    *   **Max Moon Illum.:** Excludes nights when the moon is brighter than the set percentage.
+    *   **Min/Max Size:** Filters objects by their apparent size in the sky (in arcminutes).
+    *   **Cardinal Direction:** Shows only objects that reach their highest point in the selected direction.
+
+4.  **Object Types:**
+    *   Use the collapsible menus to select exactly which types of objects you want to find (e.g., only galaxies and planetary nebulae).
+
+5.  **Start Search:**
+    *   The large "Search" button at the bottom of the sidebar starts the calculation with your settings.
+
+#### The Main Area: Results and Tools
+
+The large area on the right is organized into tabs.
+
+*   **"Results" Tab:** This is where found objects appear after a successful search.
+    *   Each object is an **expandable card**. Click it to reveal full details like constellation, size, and the best observation time.
+    *   Above the list, you can **change the sorting** (by brightness or by optimal visibility).
+    *   The **"Export" button** saves the current list as a CSV file.
+    *   The **moon graphic** shows you the current phase for the selected night.
+
+*   **"Tools" Tab:** Here you will find additional useful calculators.
+
+---
+
+### 🚀 Step-by-Step: Planning an Observation Night
+
+1.  **Set Your Location:** Enter your coordinates or use the location search.
+2.  **Choose a Date:** Leave it on "Now (Tonight)" or select a date in the calendar.
+3.  **Adjust Filters:** Set the Bortle scale for your location and adjust other filters as desired.
+4.  **Select Object Types:** Decide what you want to see. For starters, star clusters (open and globular) are often the easiest targets.
+5.  **Start the Search:** Click the large button at the bottom of the sidebar.
+6.  **Analyze the Results:** Browse the result list. Click on interesting objects to learn more.
+7.  **(Optional) View Plots:** In a result card, click "Altitude Profile" or "Sky Path" to get a graphical representation for the object.
+8.  **(Optional) Export:** Save your list to take with you outside.
+
+---
+
+### 🛠️ The Tools in Detail
+
+#### Manual Target Entry & Plotting
+Have a specific object in mind that doesn't appear in the search?
+
+1.  Switch to the **Tools -> Manual Target Input** tab.
+2.  Enter the object's name and/or its RA/Dec coordinates.
+3.  Click **"Calculate"**. The app will compute the visibility for that specific target and display a result card.
+4.  From here, you can also use the **plot functions**.
+
+#### Redshift Calculator
+A scientific tool for advanced users. Enter a redshift (z) and cosmological parameters to calculate values like lookback time and distances in the universe.
+
+#### Sun Times Calculator
+A handy utility for any day:
+1.  Make sure your location is set correctly in the sidebar.
+2.  Switch to the **Tools -> Sun Times Calculator** tab.
+3.  Click **"Calculate Sun Times"**.
+4.  The app will show you the sunrise, sunset, day length, solar noon, current local time (as a live clock), and the season for your location.
+
+---
+
+### ✅ Tips for the Best Results
+
+*   **Be realistic with the Bortle scale.** An honest assessment of your sky quality will lead to the best and most visible targets.
+*   **Start with a higher minimum altitude.** Objects near the horizon are often difficult to see. A value of 25-30° is a good starting point.
+*   **Use the moon filter.** When the moon is bright (above 50%), faint nebulae and galaxies are nearly impossible to see. On such nights, focus on bright star clusters or planetary nebulae.
+*   **Experiment!** Every night is different. Play with the filters and discover what the night sky has to offer.
