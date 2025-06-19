@@ -1,3 +1,6 @@
+![NEW_DSO_LOGO_Small](https://github.com/user-attachments/assets/cb4141bd-f5b5-4d61-ae10-2da7ef1f7d05)
+
+
 # Advanced DSO Finder: User Guide
 
 Welcome to the Advanced DSO Finder! This guide explains all features and helps you get the most out of your astronomical observation nights.
