@@ -38,7 +38,6 @@ Die Oberfläche ist in zwei Hauptbereiche unterteilt:
 *   **Rechter Hauptbereich:** Hier werden die Suchergebnisse und die zusätzlichen Werkzeuge in Tabs angezeigt.
 
 ![App-Oberfläche](screenshots/Deutsch_1.png)
-*(Hinweis: Ersetzen Sie den Link oben durch den direkten Link zu einem Screenshot in Ihrem Repository, sobald Sie einen hochgeladen haben.)*
 
 ---
 
@@ -130,9 +129,6 @@ Berechnet die exakten Zeiten für Sonnenaufgang, Sonnenuntergang, den Sonnenmitt
 
 *   **F: Die Auto-Ermittlung meines Standorts ist ungenau.**
     *   **A:** Die IP-basierte Geolokalisierung kann ungenau sein. Für präzise Ergebnisse verwenden Sie die manuelle Suche nach Ihrem Ort oder geben Sie Ihre Koordinaten direkt ein.
-
-*   **F: Das Fenster-Icon wird nicht angezeigt.**
-    *   **A:** Stellen Sie sicher, dass die Datei `icon.ico` im `assets`-Ordner neben der `.exe`-Datei liegt. Manchmal muss unter Windows der Icon-Cache geleert werden, damit das neue Icon erscheint.
 
 ---
 Haben Sie einen Fehler gefunden oder einen Verbesserungsvorschlag? Erstellen Sie bitte ein [Issue auf GitHub](https://github.com/Champion-22/ADSOFinder/issues).
