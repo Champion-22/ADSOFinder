@@ -37,7 +37,7 @@ L'interface est divisée en deux zones principales :
 *   **Barre latérale gauche :** Vous y trouverez tous les champs de saisie et les filtres pour définir votre recherche.
 *   **Zone principale droite :** Cette zone affiche les résultats de la recherche et les outils supplémentaires dans des onglets.
 
-![Interface de l'application](screenshots/Franzosisch_1.png)
+![Interface de l'application](https://raw.githubusercontent.com/Champion-22/ADSOFinder/main/docs/screenshots/Franzosisch_1.png)
 
 ---
 
