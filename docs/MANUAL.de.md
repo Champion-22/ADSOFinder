@@ -37,7 +37,7 @@ Die Oberfläche ist in zwei Hauptbereiche unterteilt:
 *   **Linke Seitenleiste:** Hier finden Sie alle Eingabefelder und Filter, um Ihre Suche zu definieren.
 *   **Rechter Hauptbereich:** Hier werden die Suchergebnisse und die zusätzlichen Werkzeuge in Tabs angezeigt.
 
-![App-Oberfläche](https://raw.githubusercontent.com/Champion-22/ADSOFinder/main/screenshot.png) 
+![App-Oberfläche](screenshots/Deutsch_1.png)
 *(Hinweis: Ersetzen Sie den Link oben durch den direkten Link zu einem Screenshot in Ihrem Repository, sobald Sie einen hochgeladen haben.)*
 
 ---
