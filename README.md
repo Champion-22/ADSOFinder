@@ -75,9 +75,11 @@ Have a question, found a bug, or have an idea for a new feature? Your feedback i
 
 *   **[Click here to ask a question or report an issue](https://github.com/Champion-22/ADSOFinder/issues)**
 
+---
+
 <div align="center">
   <p>If you enjoy this application, consider supporting its future development.</p>
   <a href="https://ko-fi.com/advanceddsofinder">
-    <img src="https://storage.ko-fi.com/cdn/kofi_button_dark.png" alt="Buy Me a Coffee at ko-fi.com" height="40">
+    <img src="https://raw.githubusercontent.com/Champion-22/ADSOFinder/main/docs/screenshots/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
 </div>
