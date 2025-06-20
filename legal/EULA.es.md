@@ -1,5 +1,7 @@
 # Contrato de Licencia de Usuario Final (CLUF) para Advanced DSO Finder
 
+**Idiomas:** [Deutsch](EULA.de.md) | [English](EULA.en.md) | [**Español**](EULA.es.md) | [Français](EULA.fr.md) | [日本語](EULA.ja.md)
+
 Este Contrato de Licencia de Usuario Final ("CLUF") es un acuerdo legal entre usted (ya sea una persona física o una única entidad) y **Devon Maddox Brunner** ("el Autor") para el producto de software "Advanced DSO Finder", incluyendo cualquier medio asociado, materiales impresos y documentación "en línea" o electrónica (colectivamente, "el Software").
 
 Al instalar, copiar o utilizar de cualquier otro modo el Software, usted acepta quedar vinculado por los términos de este CLUF. Si no está de acuerdo con los términos de este CLUF, no instale ni utilice el Software.
