@@ -4,18 +4,18 @@
   <p><strong>Your intelligent planning tool for Deep-Sky-Object observation nights.</strong></p>
   
   <p>
-    <!-- Link zum Microsoft Store -->
+    <!-- Link to Microsoft Store -->
     <a href="https://apps.microsoft.com/detail/9NPDWCK0LL0Z">
       <img src="https://img.shields.io/badge/Microsoft_Store-Get_It_Now-0078D6?style=for-the-badge&logo=microsoftstore" alt="Get it from the Microsoft Store">
     </a>
   </p>
   
   <p>
-    <!-- Automatischer Versionshinweis -->
+    <!-- Automatic Version Badge -->
     <a href="https://github.com/Champion-22/ADSOFinder/releases/latest">
       <img src="https://img.shields.io/github/v/release/Champion-22/ADSOFinder?label=Latest%20Version" alt="Latest Version">
     </a>
-    <!-- Link zum Support -->
+    <!-- Link to Support -->
     <a href="https://github.com/Champion-22/ADSOFinder/issues">
       <img src="https://img.shields.io/github/issues/Champion-22/ADSOFinder?label=Feedback%20%26%20Support" alt="Feedback & Support">
     </a>
@@ -72,6 +72,14 @@ A detailed user guide that explains every feature of the app is available.
 
 **Privacy Policy:**
 Your privacy is important. **Advanced DSO Finder does not collect, store, or transmit any personal user data.** All calculations are performed locally on your device. Location data that is entered or detected is used only for the astronomical calculations within the app and is discarded when the app is closed.
+
+---
+
+### ⚖️ License
+
+By purchasing and using this software, you agree to the terms and conditions outlined in the End-User License Agreement (EULA).
+
+*   **[Read the full EULA here](https://github.com/Champion-22/ADSOFinder/blob/main/legal/EULA.en.md)**
 
 ---
 
