@@ -1,5 +1,7 @@
 # Endbenutzer-Lizenzvertrag (EULA) für Advanced DSO Finder
 
+**Sprachen:** [**Deutsch**](EULA.de.md) | [English](EULA.en.md) | [Español](EULA.es.md) | [Français](EULA.fr.md) | [日本語](EULA.ja.md)
+
 Dieser Endbenutzer-Lizenzvertrag ("EULA") ist eine rechtliche Vereinbarung zwischen Ihnen (entweder als natürliche oder juristische Person) und **Devon Maddox Brunner** ("der Autor") für das Softwareprodukt "Advanced DSO Finder", einschließlich aller zugehörigen Medien, gedruckten Materialien und "Online"- oder elektronischen Dokumentationen (zusammenfassend "die Software").
 
 Durch die Installation, das Kopieren oder die anderweitige Nutzung der Software erklären Sie sich mit den Bestimmungen dieses EULA einverstanden. Wenn Sie den Bestimmungen dieses EULA nicht zustimmen, installieren oder verwenden Sie die Software nicht.
