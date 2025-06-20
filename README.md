@@ -4,12 +4,18 @@
   <p><strong>Your intelligent planning tool for Deep-Sky-Object observation nights.</strong></p>
   
   <p>
+    <!-- Link zum Microsoft Store -->
     <a href="https://apps.microsoft.com/detail/9NPDWCK0LL0Z">
       <img src="https://img.shields.io/badge/Microsoft_Store-Get_It_Now-0078D6?style=for-the-badge&logo=microsoftstore" alt="Get it from the Microsoft Store">
     </a>
   </p>
   
   <p>
+    <!-- Automatischer Versionshinweis -->
+    <a href="https://github.com/Champion-22/ADSOFinder/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Champion-22/ADSOFinder?label=Latest%20Version" alt="Latest Version">
+    </a>
+    <!-- Link zum Support -->
     <a href="https://github.com/Champion-22/ADSOFinder/issues">
       <img src="https://img.shields.io/github/issues/Champion-22/ADSOFinder?label=Feedback%20%26%20Support" alt="Feedback & Support">
     </a>
@@ -80,6 +86,6 @@ Have a question, found a bug, or have an idea for a new feature? Your feedback i
 <div align="center">
   <p>If you enjoy this application, consider supporting its future development.</p>
   <a href="https://ko-fi.com/advanceddsofinder">
-    <img src="https://raw.githubusercontent.com/Champion-22/ADSOFinder/main/docs/screenshots/githubbutton_sm.svg" alt="Support me on Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
 </div>
